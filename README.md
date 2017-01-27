@@ -1,10 +1,10 @@
 # Rubocop Config Zeal
 
-## Credits
+## License
 
-Authored by the team at Coding ZEAL (http://codingzeal.com)
+Authored by the Engineering Team of [Coding ZEAL](https://codingzeal.com?utm_source=github)
 
-![Coding ZEAL](https://googledrive.com/host/0B3TWa6M1MsWeWmxRZWhscllwTzA/ZEAL-logo-final-150.png)
+Copyright (c) 2017 Zeal, LLC.  Licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Contributing
 
